@@ -16,7 +16,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [Amit Mandal](https://amitmandal.netlify.app/)
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://aabaarkhan.quippedai.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
